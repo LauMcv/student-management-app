@@ -1,4 +1,4 @@
-# CRUD WEB APPLICATION (CCC181 Assignment)
+# Student Management App based on CRUD and SQL
 
 ![crudwebapp](https://github.com/edenroseFR/Web-based-SSIS/blob/main/readme_files/image.PNG)
 ## FEATURES
